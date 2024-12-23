@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\bilgisayar malzemesi satış\bilgisayar malzemesi satış\bin\Debug\bilgisayar malzemesi satış.exe.config
+C:\Users\user\Desktop\10-M\bilgisayar malzemesi satış\bilgisayar malzemesi satış\bin\Debug\bilgisayar malzemesi satış.exe
+C:\Users\user\Desktop\10-M\bilgisayar malzemesi satış\bilgisayar malzemesi satış\bin\Debug\bilgisayar malzemesi satış.pdb
+C:\Users\user\Desktop\10-M\bilgisayar malzemesi satış\bilgisayar malzemesi satış\obj\Debug\bilgisayar malzemesi satış.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\bilgisayar malzemesi satış\bilgisayar malzemesi satış\obj\Debug\bilgisayar_malzemesi_satış.Form1.resources
+C:\Users\user\Desktop\10-M\bilgisayar malzemesi satış\bilgisayar malzemesi satış\obj\Debug\bilgisayar_malzemesi_satış.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\bilgisayar malzemesi satış\bilgisayar malzemesi satış\obj\Debug\bilgisayar malzemesi satış.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\bilgisayar malzemesi satış\bilgisayar malzemesi satış\obj\Debug\bilgisayar malzemesi satış.exe
+C:\Users\user\Desktop\10-M\bilgisayar malzemesi satış\bilgisayar malzemesi satış\obj\Debug\bilgisayar malzemesi satış.pdb
